@@ -56,12 +56,3 @@ A simple **Hotel Management System (HMS)** implemented in C++, allowing hotel ad
 
 ---
 
-## 📚 Example Screenshot
-     <img width="787" height="387" alt="image" src="https://github.com/user-attachments/assets/2123e75e-6bd7-4596-8c44-d5e2b3db712a" />
-     <img width="611" height="764" alt="image" src="https://github.com/user-attachments/assets/ca8e83ee-5ea6-49ab-818d-f2f0e405958e" />
-     <img width="681" height="799" alt="image" src="https://github.com/user-attachments/assets/ccc88d6e-5099-48a3-a1b0-1477c9c4dd56" />
-
-
-
-
--
